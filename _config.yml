@@ -2,6 +2,9 @@
 title: Gsite
 timezone: Asia/Bangkok
 collections:
+  markets:
+    title: Markets
+    output: true
   posts:
     title: Posts
     output: true
