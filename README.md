@@ -6,6 +6,7 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 
 Use our deploy button to get your own copy of the repository. 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/49afc19d8de64632b298ff03fc38edda)](https://app.codacy.com/app/GSITE/GSITE?utm_source=github.com&utm_medium=referral&utm_content=Gamingpc/GSITE&utm_campaign=Badge_Grade_Dashboard)
 [![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
 
 This will setup everything needed for running the CMS:
